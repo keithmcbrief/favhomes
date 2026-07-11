@@ -1,12 +1,12 @@
-# FavHomes
+# FavoHomes
 
-A basic static website for FavHomes, a boutique real estate agency.
+A static website for FavoHomes (favohomes.com), an independent California brokerage for residential, commercial, and business sales.
 
 ## Pages
 
-- `index.html` - Home (hero, search, featured listings, services, testimonials)
-- `listings.html` - Property listings with client-side filtering
-- `about.html` - About the agency and team
+- `index.html` - Home (hero, sales-record ticker, search, featured listings, services, testimonials)
+- `listings.html` - Residential and commercial listings with client-side filtering
+- `about.html` - About the brokerage and the broker
 - `contact.html` - Contact form, office info, and map
 
 ## Structure

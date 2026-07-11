@@ -1,4 +1,4 @@
-/* FavHomes — site interactions */
+/* FavoHomes — site interactions */
 (function () {
   "use strict";
 
